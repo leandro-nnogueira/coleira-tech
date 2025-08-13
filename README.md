@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ColeiraTech.png" alt="ColeiraTech Logo" width="600"/>
+  <img src="assets/banner.png" alt="ColeiraTech Logo" width="600"/>
 </p>
 
 # 🐾 coleira-tech
